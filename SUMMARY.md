@@ -10,6 +10,7 @@
     * [Integrated Dell Remote Access Controller 7](cao-zuo-xi-tong/hardware/integrated-dell-remote-access-controller-7.md)
   * [Linux](cao-zuo-xi-tong/linux.md)
     * linux基于网络的批量安装
+    * [Linux的vm相关参数介绍](cao-zuo-xi-tong/linux/linuxde-vm-xiang-guan-can-shu-jie-shao.md)
   * Solaris
   * Aix
   * Othen
